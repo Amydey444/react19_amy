@@ -1,8 +1,39 @@
-# React + Vite
+# 🌍 World Atlas Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web application built with **React 19** that displays detailed information about countries across the world. Users can explore flags, populations, languages, regions, and more — all fetched live from a REST API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📑 Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Folder Structure](#folder-structure)
+- [Installation](#installation)
+- [Screenshots](#screenshots)
+- [License](#license)
+
+---
+
+## 🚀 Features
+
+- 🌐 List and explore countries worldwide
+- 🔍 Search countries by name
+- 🌍 Filter by continent or region
+- 📊 View country details: flag, capital, currency, population, language, etc.
+- 📱 Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- **React 19** (latest)
+- **React Router** for navigation
+- **REST Countries API** for real-time data
+- **CSS / Tailwind CSS** for styling
+- **Axios / Fetch API** for data fetching
+
+---
+
+
+
