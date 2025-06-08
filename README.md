@@ -8,10 +8,7 @@ An interactive web application built with **React 19** that displays detailed in
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Folder Structure](#folder-structure)
 - [Installation](#installation)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ---
 
@@ -34,6 +31,25 @@ An interactive web application built with **React 19** that displays detailed in
 - **Axios / Fetch API** for data fetching
 
 ---
+## ⚙️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Amydey444/react19_amy.git
+```
+### 2. Navigate to the Project Folder
+```bash
+cd react19_amy
+```
+### 3.Install Dependencies
+```bash
+npm install
+```
+### 4.Start the App
+```bash
+npm run dev
+```
 
 
 
